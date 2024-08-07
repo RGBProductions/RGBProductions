@@ -10,14 +10,10 @@
     }
 </style> -->
 
-<div style="text-align: center">
+<div align="center">
 
 ![RGB Productions](logo.png)<br>
 ![Software Developer](emblems/header.softwaregamedev.png)<br>
-
-</div>
-
-<div style="display: flex; width: 100%; flex-direction: column; align-items: center; justify-content: center;">
 
 # Skills
 
