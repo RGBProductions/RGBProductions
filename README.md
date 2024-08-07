@@ -19,11 +19,11 @@
 
 <div id="emblem-block">
 
-![Lua](emblems/lang.lua.png)![LOVE](emblems/use.love.png)<br>
+![Lua](emblems/lang.lua.png)![LOVE](emblems/use.love.png)![](emblems/blank.png)<br>
 ![Java](emblems/lang.java.png)![PaperMC](emblems/use.papermc.png)![FabricMC](emblems/use.fabricmc.png)<br>
-![Python](emblems/lang.python.png)![CLI Tools](emblems/use.cli.png)<br>
-![C#](emblems/lang.cs.png)![Unity](emblems/use.unity.png)<br>
-![JavaScript](emblems/lang.js.png)![Web Dev](emblems/use.web.png)
+![Python](emblems/lang.python.png)![CLI Tools](emblems/use.cli.png)![](emblems/blank.png)<br>
+![C#](emblems/lang.cs.png)![Unity](emblems/use.unity.png)![](emblems/blank.png)<br>
+![JavaScript](emblems/lang.js.png)![Web Dev](emblems/use.web.png)![](emblems/blank.png)
 
 </div>
 
