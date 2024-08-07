@@ -1,16 +1,42 @@
-## Hi there 👋
+<style>
+    #emblems {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    #emblem-block {
+    }
+</style>
 
-<!--
-**RGBProductions/RGBProductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
 
-Here are some ideas to get you started:
+![RGB Productions](logo.png)<br>
+![Software Developer](emblems/header.softwaregamedev.png)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</center>
+
+<div id="emblems">
+
+# Skills
+
+<div id="emblem-block">
+
+![Lua](emblems/lang.lua.png)![LOVE](emblems/use.love.png)<br>
+![Java](emblems/lang.java.png)![PaperMC](emblems/use.papermc.png)![FabricMC](emblems/use.fabricmc.png)<br>
+![Python](emblems/lang.python.png)![CLI Tools](emblems/use.cli.png)<br>
+![C#](emblems/lang.cs.png)![Unity](emblems/use.unity.png)<br>
+![JavaScript](emblems/lang.js.png)![Web Dev](emblems/use.web.png)
+
+</div>
+
+# Featured Projects
+
+<div id="emblem-block">
+
+<a href="https://github.com/RGBProductions/TheSlashOfTheDice">![The Slash of the Dice](emblems/project.slash.png)</a>
+
+</div>
+
+</div>
