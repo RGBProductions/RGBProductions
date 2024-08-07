@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     #emblems {
         display: flex;
         width: 100%;
@@ -8,14 +8,12 @@
     }
     #emblem-block {
     }
-</style>
+</style> -->
 
 <center>
 
 ![RGB Productions](logo.png)<br>
 ![Software Developer](emblems/header.softwaregamedev.png)<br>
-
-</center>
 
 <div id="emblems">
 
@@ -40,3 +38,5 @@
 </div>
 
 </div>
+
+</center>
