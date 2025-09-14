@@ -17,7 +17,7 @@
 
 # Skills
 
-<div id="emblem-block">
+<div>
 
 ![Lua](emblems/lang.lua.png)![LOVE](emblems/use.love.png)![](emblems/blank.png)<br>
 ![Java](emblems/lang.java.png)![PaperMC](emblems/use.papermc.png)![FabricMC](emblems/use.fabricmc.png)<br>
@@ -29,9 +29,11 @@
 
 # Featured Projects
 
-<div id="emblem-block">
+<div>
 
 <a href="https://github.com/RGBProductions/TheSlashOfTheDice">![The Slash of the Dice](emblems/project.slash.png)</a>
+
+<a href="https://github.com/RGBProductions/VoltRhythm">![VoltRhythm](emblems/project.volt.png)</a>
 
 </div>
 
